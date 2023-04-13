@@ -7,4 +7,7 @@ public class Demo4 {
     System.out.println("Day 4..");
 	}
 
+	public void add() {
+		System.out.println(1+1);
+	}
 }
